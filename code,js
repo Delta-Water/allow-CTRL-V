@@ -1,0 +1,25 @@
+// ==UserScript==
+// @name         解除粘贴限制
+// @namespace    https://github.com/Delta-Water/allow-CTRL-V/new/main
+// @version      1.0.0
+// @description  允许在CQUPT内网上的代码平台上粘贴文本
+// @author       Delta_Water
+// @match        http://172.22.181.82/train/*
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+    
+    // 移除对粘贴事件的阻止
+    document.addEventListener('paste', function(e) {
+        e.stopPropagation();
+    }, true);
+    
+    // 移除对键盘事件的阻止（例如Ctrl+V）
+    document.addEventListener('keydown', function(e) {
+        if ((e.ctrlKey || e.metaKey) && e.key === 'v') {
+            e.stopPropagation();
+        }
+    }, true);
+})();

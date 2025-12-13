@@ -164,6 +164,8 @@ allow-CTRL-V/
 
 欢迎提交Issue和Pull Request！
 
+作者：[Delta_Water](https://github.com/Delta-Water) | [项目地址](https://github.com/Delta-Water/allow-CTRL-V)  
+
 ## 📄 许可证
 
 本项目采用 AGPL-3.0 许可证，请在使用或传播时自觉遵守其内容。

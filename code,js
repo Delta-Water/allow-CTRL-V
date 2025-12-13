@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         解除粘贴限制
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  允许在CQUPT内网上的代码平台上粘贴文本
 // @author       Delta_Water
 // @match        *://172.22.181.82/train/*

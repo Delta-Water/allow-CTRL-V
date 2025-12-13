@@ -4,7 +4,7 @@
 // @version      1.0.0
 // @description  允许在CQUPT内网上的代码平台上粘贴文本
 // @author       Delta_Water
-// @match        http://172.22.181.82/train/*
+// @match        *://172.22.181.82/train/*
 // @grant        none
 // @license      AGPL-3.0
 // ==/UserScript==

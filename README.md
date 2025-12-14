@@ -36,7 +36,7 @@ allow-CTRL-V/
    - Firefox：安装 [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/)
 
 2. **安装用户脚本**
-   - 前往本项目的greasyfork页面：[解除粘贴限制](https://greasyfork.org/zh-CN/scripts/552273-%E8%A7%A3%E9%99%A4%E7%B2%98%E8%B4%B4%E9%99%90%E5%88%B6)
+   - 前往本项目的OUJS页面：[解除粘贴限制](https://openuserjs.org/scripts/Delta_Water/%E8%A7%A3%E9%99%A4%E7%B2%98%E8%B4%B4%E9%99%90%E5%88%B6) | GF页面：[解除粘贴限制](https://greasyfork.org/zh-CN/scripts/552273-%E8%A7%A3%E9%99%A4%E7%B2%98%E8%B4%B4%E9%99%90%E5%88%B6)
    - 点击"安装"按钮
    - 在随后Tampermonkey弹出的界面中再次点击"安装"按钮
 

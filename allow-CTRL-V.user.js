@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           解除粘贴限制
 // @namespace      https://github.com/Delta-Water
-// @version        2.0.1
+// @version        2.0.2
 // @description    允许在CQUPT内网上的代码平台上粘贴文本并通过平台的按键检测
 // @author         Delta_Water
 // @match          *://172.22.181.82/train/*
@@ -20,7 +20,7 @@
      * 基本配置
      ***********************/
     const WS_URL = 'ws://127.0.0.1:8765';
-    const STORAGE_KEY = 'alphawater@qq.com&allow-CTRL-V';
+    const STORAGE_KEY = 'https://github.com/Delta-Water@allow-CTRL-V';
     const LONG_PRESS_THRESHOLD = 1000;
     const PROJECT_URL = 'https://github.com/Delta-Water/allow-CTRL-V';
     const AUTHOR_URL = 'https://github.com/Delta-Water';

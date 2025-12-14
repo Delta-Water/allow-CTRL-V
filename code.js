@@ -8,7 +8,7 @@
 // @grant          GM_setValue
 // @grant          GM_getValue
 // @grant          GM_addStyle
-// @license        AGPL-3.0
+// @license        AGPL-3.0-only
 // @run-at         document-idle
 // ==/UserScript==
 

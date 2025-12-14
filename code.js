@@ -11,8 +11,6 @@
 // @license        AGPL-3.0-only
 // @run-at         document-idle
 // ==/UserScript==
-
-// ==/UserScript==
 /* global monaco */
 
 (function () {

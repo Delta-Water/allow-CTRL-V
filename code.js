@@ -8,9 +8,8 @@
 // @grant          GM_setValue
 // @grant          GM_getValue
 // @grant          GM_addStyle
-// @license        AGPL-3.0-or-later
+// @license        AGPL-3.0
 // @run-at         document-idle
-// @updateURL      https://raw.githubusercontent.com/Delta-Water/allow-CTRL-V/refs/heads/main/code.js
 // ==/UserScript==
 
 // ==/UserScript==

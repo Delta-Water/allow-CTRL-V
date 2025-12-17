@@ -171,3 +171,6 @@ allow-CTRL-V/
 ## 📄 许可证
 
 本项目采用 AGPL-3.0 许可证，请在使用或传播时自觉遵守其内容。
+
+![78728ccd47491b36816a2adae6de55fc](https://github.com/user-attachments/assets/0465d1b3-d3ac-409a-aa64-e6ace58473f2)
+
